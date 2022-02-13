@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/css/main.073c9b0a.css",
+    "main.js": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/js/main.ce5c4566.js",
+    "static/js/787.461ae4cb.chunk.js": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/js/787.461ae4cb.chunk.js",
+    "static/media/logo.svg": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/index.html",
+    "main.073c9b0a.css.map": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/css/main.073c9b0a.css.map",
+    "main.ce5c4566.js.map": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/js/main.ce5c4566.js.map",
+    "787.461ae4cb.chunk.js.map": "/BlockCHYIN/goit-react-hw-0nm2-feedback.git/static/js/787.461ae4cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ce5c4566.js"
+  ]
+}
