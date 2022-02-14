@@ -6,7 +6,7 @@ const Statistic = ({
     neutral,
     bad,
     total,
-    positivePercentage
+    positivePercentage,
 }) => {
     return (
         <div>

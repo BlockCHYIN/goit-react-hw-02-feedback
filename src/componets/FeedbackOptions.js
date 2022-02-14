@@ -3,7 +3,7 @@ import s from './FeedbackOptions.module.css';
 
 const FeedbackOptions = ({
     options,
-    onLeaveFeedback
+    onLeaveFeedback,
 }) => {
     return (
         <>
